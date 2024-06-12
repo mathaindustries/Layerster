@@ -804,7 +804,6 @@ section,
   padding-bottom: 10px;
   font-size: 36px; /* Adjust as needed */
   font-weight: 700;
-  white-space: nowrap; /* Prevent text from wrapping */
   position: relative;
 }
 
@@ -928,7 +927,6 @@ section,
 .hero .carousel-control-next:hover {
   opacity: 0.9;
 }
-
 
 /*--------------------------------------------------------------
 # Get Started Section
